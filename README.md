@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub !
 ## À propos de moi
 - Étudiant en MASTER Big Data Analyse et Business Intelligence
 - Intéressé par la Data et les systèmes distribués
-- Objectif : devenir ingénieur ML
+- Objectif : devenir Data ingénieur 
 
 ## Technologies
 - Python 
