@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bonjour, je suis Can Pekgoz 
 
-<!--
-**Pekgoz/Pekgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+## À propos de moi
+- Étudiant en MASTER Big Data Analyse et Business Intelligence
+- Intéressé par la Data et les systèmes distribués
+- Objectif : devenir ingénieur ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python 
+- Git & GitHub
+
+## Projets
+- bidabi-projet-can (classification)
+
+## Me contacter
+- Email : can.pekgoz@edu.univ-paris13.fr
